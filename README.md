@@ -1,18 +1,18 @@
 # Justice Jatau - Web & Software Developer
 
-Hi, I'm **Justice** (aka Justice Jatau). I'm a passionate web and software developer who thrives at the intersection of technology and creativity. I believe in learning by building — transforming ideas into functional, user-friendly applications. My journey is fueled by curiosity, and I'm constantly pushing my limits with new technologies.
+Hi, I'm **Justice Jatau**, a self-taught web & software developer building full-stack projects and exploring creative tech solutions.
 
 ---
 
 ## 🌱 About Me
 
-I'm a **self-taught developer** with a strong foundation in both frontend and backend development. I love crafting seamless digital experiences, whether it's a social platform for developers, a music-tech tool that turns notation into sound, or a utility app that enhances daily life. My projects reflect my diverse interests — from full-stack web apps to Android utilities and creative coding experiments.
+I'm a **self-taught developer** with a strong foundation in both frontend and backend development. I enjoy building seamless digital experiences, from full-stack web apps to Android utilities and creative coding experiments. My projects reflect a curiosity to explore new technologies and solve real-world problems.
 
-- 🔭 I’m currently working on: **DevLink** (developer social platform) & **Code With Solfa** (music education tool)
-- 🌱 I’m currently learning: **Docker**, **TypeScript**, and diving deeper into **Node.js** backend architectures
-- 👯 I’m looking to collaborate on: Music-tech projects, open-source tools, and full-stack applications
-- 💬 Ask me about: React, PHP, API integration, or how to blend music theory with code
-- ⚡ Fun fact: I enjoy blending tech with music — I'm building tools that convert musical notation into interactive web experiences
+- Currently working on: **DevLink** (developer social platform) & **Code With Solfa** (music-tech exploration)
+- Currently learning: **Docker**, **TypeScript**, and diving deeper into **Node.js backend architectures**
+- Looking to collaborate on: open-source projects, full-stack apps, and innovative tech experiments
+- Ask me about: **React**, **PHP**, API integration, or turning creative ideas into functional applications
+- Fun fact: I like experimenting with music and tech, exploring ways to combine coding with creative concepts
 
 ---
 
@@ -36,112 +36,103 @@ I'm a **self-taught developer** with a strong foundation in both frontend and ba
 | MySQL | Advanced — Complex Queries, Database Design, Optimization |
 | REST API Design | Advanced — JWT, CORS, Request/Response Handling |
 
-### Tools & DevOps
-- **Version Control:** Git, GitHub (branching, rebasing, pull requests, collaborative workflows)
-- **Development:** Vite, npm, Composer
-- **Deployment:** Docker (learning), basic server configuration
-- **API Testing:** Postman, Axios
-- **Authentication:** JWT, session-based auth, bcrypt
-- **Integrations:** SMTP email, MIDI, Tone.js
+### 🛠️ Tools & Technologies
+
+- **Frontend:** React, Bootstrap, Tailwind CSS, Vite, HTML5, CSS3, JavaScript (ES6+)
+- **Backend:** PHP (Pure PHP), Node.js, Express, MySQL, REST API design, JWT authentication
+- **Version Control:** Git, GitHub (branching, pull requests, collaborative workflows)
+- **API & Testing:** Axios, Postman
+- **DevOps & Deployment:** Docker (learning)
+- **Creative / Integrations:** Tone.js, MIDI, SMTP email
 
 ---
 
 ## 🚀 Featured Projects
 
 ### DevLink — Developer Social Platform
-**Tech Stack:** React, PHP, MySQL, JWT, Axios
+**Tech Stack:** React, Node.js, MySQL, JWT, Axios
 
-A mini social network designed for developers to share insights, post updates, and connect with peers. This project taught me the intricacies of building a full-featured platform from scratch.
+A social platform for developers to share posts, interact, and connect.
 
-- 🔐 Implemented secure JWT authentication with protected routes
-- 💬 Created dynamic post creation, editing, and commenting system
-- 👤 User profiles with customizable avatars and bios
-- 🔄 Real-time updates using optimistic UI patterns
-- 🏗️ Architected PHP REST API with proper CORS and error handling
-- 📱 Fully responsive design for mobile and desktop
+- Implemented JWT-based authentication (login & signup)  
+- Built initial post creation and fetching system  
+- Structured PHP REST API with CORS handling  
+- Integrated frontend with backend using Axios  
+- Responsive UI design (in progress)  
 
-### Code With Solfa — Music Education Tool
-**Tech Stack:** React, Tone.js, Python (optional backend)
+> 🚧 Currently in development: expanding post features (edit, comments), user profiles, and improving UI/UX
 
-An interactive web application that converts tonic sol-fa notation into playable sound with visual animations — bridging music theory and coding.
+### Maidawa Arewa — Video Hub Platform
+**Tech Stack:** React Native, Node.js, Backblaze, Axios, Atlas MongoDB
 
-- 🎵 Real-time audio synthesis using Tone.js Web Audio API
-- 🎹 Supports pitch variations, tempo control, and rhythm patterns
-- 🎨 Animated visual feedback for each note played
-- 📝 Custom notation parser for sol-fa syllables (do, re, mi, etc.)
-- 🚧 Future: Audio-to-solfa recognition, chord extraction, MIDI export
+A centralized video hub built for Maidawa Arewa News to organize, manage, and deliver their video content in one place.
 
-### App Locker — Android Security App
-**Tech Stack:** Java/Kotlin, Android SDK
-
-A utility app that adds an extra layer of security by locking selected applications with PIN or pattern authentication.
-
-- 🔒 Auto-starts on device boot to ensure continuous protection
-- 🔑 Custom authentication interface for unlocking apps
-- 📱 Works seamlessly in the background with minimal resource usage
-- 🛡️ Prevents unauthorized access to sensitive apps
+- Upload and stream news-related video content  
+- Structured categorization for easy content organization (e.g., politics, tech, lifestyle)  
+- Integrated Backblaze cloud storage for efficient media handling  
+- Optimized video loading and fetching for smooth playback  
+- Designed for a seamless mobile viewing experience
 
 ### Complaint Management System
-**Tech Stack:** React, PHP, MySQL, JWT, SMTP
+**Tech Stack:** HTML, CSS, PHP, MySQL
 
-A streamlined web application for organizations to manage, track, and resolve complaints efficiently.
+A web application for managing and tracking user complaints with role-based access control.
 
-- 📋 Role-based access control (Admin, Staff, User)
-- 📧 Automated email notifications for complaint updates
-- 📊 Dashboard with statistics and complaint analytics
-- 🔍 Search and filter functionality with pagination
-- 🔒 Secure API with JWT tokens and CORS configuration
+- Implemented user authentication (login & signup)  
+- Built complaint submission and tracking system  
+- Role-based access for different users  
+- Basic chat system with manual refresh updates  
+- Structured backend with PHP and MySQL  
 
-### Library Management System
-**Tech Stack:** Vite, TypeScript, PHP, MySQL
+> 🚧 Currently improving: migrating to React frontend, adding real-time chat (WebSockets), and building an admin dashboard
 
-A comprehensive digital solution for college libraries to manage student registrations, book borrowing, and fine collection.
+### Product List with Cart — E-commerce UI
+**Tech Stack:** React,
 
-- 📚 Student registration and membership management
-- 🔖 Book catalog with search and availability tracking
-- ⏱️ Borrowing system with due dates and automatic fine calculation
-- 💳 Fine payment tracking and history
-- 🛠️ Built with Vite + TSX for modern frontend experience
+Frontend challenge project demonstrating modern e-commerce functionality
 
-### Product List with Cart — E-commerce Demo
-**Tech Stack:** React, Axios, REST API
+- Add/remove items from cart
+- Product listing with filtering options
+- State management with React hooks
 
-Frontend challenge project demonstrating modern e-commerce functionality with backend integration.
+### URL Shortener
+**Tech Stack:** React, Node.js, MongoDB
 
-- 🛒 Add/remove items from cart
-- 💾 Cart persistence through API
-- 📦 Product listing with filtering options
-- 🧪 State management with React hooks
+A simple and efficient tool to shorten long URLs and manage links.
+
+- Generate short links from long URLs  
+- Track and manage created links  
+- Fast redirection system  
+- Learned backend routing and database mapping logic  
 
 ---
 
-## 📚 Learning Journey & Achievements
+## 📚 Learning Journey
 
 ### Currently Exploring
-- **Docker** — Containerizing applications for consistent deployment
-- **TypeScript** — Adding type safety to larger React projects
-- **Node.js Advanced** — Building scalable backend architectures
-- **Music Theory for Devs** — Applying musical concepts to creative coding
+- **Docker** — Learning containerization and deployment basics  
+- **TypeScript** — Improving type-safe development in React projects  
+- **Node.js** — Strengthening backend development skills  
 
-### Certifications & Courses
-- Frontend Mentor Challenges — Responsive designs & UI/UX mastery
-- Git & GitHub Mastery — Branching strategies, rebasing, pull request workflows
-- PHP & MySQL — Building robust database-driven applications
+### Practice & Experience
+- Frontend Mentor Challenges — Practicing responsive design and UI/UX principles  
+- Git & GitHub — Branching, rebasing, and collaborative workflows  
+- PHP & MySQL — Building database-driven web applications  
 
-### Open Source Contributions
-- Actively building projects with public repositories
-- Documenting code and sharing learning resources on GitHub
-- Creating educational content on YouTube (CodeQuest)
+### Building in Public
+- Sharing projects and progress on GitHub  
+- Documenting learning through real projects  
+- Creating coding content on YouTube (WebDev Start)
 
 ---
 
 ## 🎯 Current Goals
 
-- **Short-term:** Complete DevLink with real-time messaging and notifications
-- **Medium-term:** Launch Code With Solfa with audio recognition capabilities
-- **Long-term:** Build a portfolio of music-tech tools and explore AI in creative applications
-- **Community:** Grow CodeQuest YouTube channel with tutorials and project walkthroughs
-- **Professional:** Land opportunities that combine full-stack development with creative tech
+- **Short-term:** Improve and complete core features in DevLink (posts, profiles, UI)  
+- **Mid-term:** Upgrade existing projects with modern stacks (React, better backend structure, real-time features)  
+- **Exploration:** Experiment with music-tech ideas like Code With Solfa  
+- **Growth:** Consistently build and share projects on GitHub and YouTube (WebDev Start)  
+- **Career:** Gain real-world experience through freelance work or developer opportunities  
 
 ---
 
@@ -157,19 +148,17 @@ Frontend challenge project demonstrating modern e-commerce functionality with ba
 
 - **GitHub:** [github.com/JusticeJatau](https://github.com/JusticeJatau)
 - **YouTube:** [CodeQuest](https://youtube.com/@CodeQuest) — Coding tutorials and project builds
-- **Email:** justice.jatau@example.com
-- **Portfolio:** (coming soon)
+- **Email:** [jataujustice200@gmail.com](mailto:jataujustice200@gmail.com)  
+- **Portfolio:** Coming soon — currently building and polishing projects
 
 ---
 
 ## 🎨 Fun Facts
 
-- 🎹 I'm a musician at heart — I play keyboard and apply music theory in my coding projects
-- 🎮 I enjoy game development as a creative outlet
-- 📖 I believe in documenting my learning journey to help others grow
-- ☕ Coffee-powered coder who loves solving complex problems
-- 🌍 Open to collaborations on music-tech, education, and creative coding projects
+- I enjoy playing keyboard and exploring how music can connect with technology  
+- I like building projects that solve real problems while pushing my skills  
+- Interested in creative tech, including game development and interactive applications  
 
 ---
 
-*"Code is poetry, and every project is a new verse." — Justice Jatau*
+*"Learning by building real projects and improving with every iteration." — Justice Jatau*
